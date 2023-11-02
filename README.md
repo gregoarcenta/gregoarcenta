@@ -27,7 +27,9 @@ I'm an explorer of new tech, an avid learner, and a problem-solver. When I'm not
 
 ### I'm available to collaborate on interesting projects. Feel free to connect with me:
 
-<a href="https://www.linkedin.com/in/gregoarcenta/" target="_blank">
+<a href="https://www.linkedin.com/in/gregoarcenta/" target="_blank" style="text-decoration: none !important;">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" />
-</a> &nbsp; <a href="mailto:gregoarcenta@gmail.com">
-<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+</a> &nbsp; 
+<a href="mailto:gregoarcenta@gmail.com" style="text-decoration: none !important;">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" />
+</a>
