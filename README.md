@@ -4,6 +4,8 @@ I am a Full Stack Developer with a strong foundation in HTML, CSS, Javascript, T
 
 I'm an explorer of new tech, an avid learner, and a problem-solver. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity. 💻
 
+Bringing 2 years of hands-on experience in web development and a passion for creating efficient, user-friendly applications. Proficient in a range of web technologies, from front-end design to back-end functionality.
+
 ## Languages and Tools
 
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML"></code>
