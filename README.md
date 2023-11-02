@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [Gregory!](https://github.com/gregoarcenta/)
+# Hey there 👋, I'm [Gregory!](https://github.com/gregoarcenta/)
 
 I am a Full Stack Developer with a strong foundation in HTML, CSS, Javascript, Typescript, Nodejs, Angular, RxJs, etc. 🚀
 
