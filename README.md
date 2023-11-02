@@ -4,7 +4,7 @@ I am a Full Stack Developer with a strong foundation in HTML, CSS, Javascript, T
 
 I'm an explorer of new tech, an avid learner, and a problem-solver. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity. 💻
 
-### Languages and Tools
+## Languages and Tools
 
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="CSS"></code>
@@ -21,10 +21,13 @@ I'm an explorer of new tech, an avid learner, and a problem-solver. When I'm not
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" alt="github"></code>
 
-### Portfolio
+## Portfolio
 
 > _pending..._
 
-### Estoy disponible para colaborar en proyectos interesantes. ¡No dudes en contactarme
+### I'm available to collaborate on interesting projects. Feel free to connect with me:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gregoarcenta/) &nbsp; <a href="mailto:gregoarcenta@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+<a href="https://www.linkedin.com/in/gregoarcenta/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" />
+</a> &nbsp; <a href="mailto:gregoarcenta@gmail.com">
+<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
